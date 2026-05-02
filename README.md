@@ -97,4 +97,4 @@ The project demonstrates how machine learning can be used to predict house price
 ---
 
 ## 🔗 GitHub Repository
-(Add your repository link here)
+https://github.com/RiptaGhodadra29/synent-task8-mlmodel-ripta.git
