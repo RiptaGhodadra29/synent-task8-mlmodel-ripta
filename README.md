@@ -92,7 +92,7 @@ The project demonstrates how machine learning can be used to predict house price
 ---
 
 ## 🎥 Demo Video
-(Add your video link here)
+https://drive.google.com/file/d/13q_5hE2WElM2cj4jOI_i69mDOHxVW2yb/view?usp=drive_link
 
 ---
 
